@@ -57,7 +57,7 @@ gcode:
 ## Install
 
 <pre>cd ~
-git clone https://github.com/Turge08/klipper_filament_dryer
+git clone https://github.com/Yumi-Lab/klipper_filament_dryer
 cd klipper_filament_dryer
 ./install.sh</pre>
 
